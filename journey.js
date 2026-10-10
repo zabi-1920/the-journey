@@ -1,1 +1,2 @@
-console.log("joueney has started");
+console.log("journey has started");
+console.log("hello mother land");
